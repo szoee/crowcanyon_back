@@ -7,22 +7,71 @@
 
 
 
-<h3>:pushpin: 자세한 내용은 .pdf를 참고해주시면 감사하겠습니다. :pushpin:</h3>
-![크로우캐년PPT_1](https://github.com/user-attachments/assets/fafe955a-0080-48f5-bbf0-6e730c014dc5)
-![크로우캐년PPT_2](https://github.com/user-attachments/assets/8b352f19-c726-4c0e-8122-42989db4e4f1)
-![크로우캐년PPT_3](https://github.com/user-attachments/assets/e1a7eea3-8b7e-4c6a-902e-50bc6d365a03)
-![크로우캐년PPT_4](https://github.com/user-attachments/assets/848fb3a4-81a7-4db9-bbd6-8129cf164ba6)
-![크로우캐년PPT_5](https://github.com/user-attachments/assets/3814aec1-64e5-465b-b2a5-9f94ce11ec71)
-![크로우캐년PPT_6](https://github.com/user-attachments/assets/125f934d-76b7-4147-9138-3d0442e274b4)
-![크로우캐년PPT_7](https://github.com/user-attachments/assets/230c9a4f-5c87-486f-9b12-fc3cf8113ed0)
-![크로우캐년PPT_8](https://github.com/user-attachments/assets/30b7cafd-7545-4321-8a8b-2488e50de037)
-![크로우캐년PPT_9](https://github.com/user-attachments/assets/0bb8a00a-713e-4f6e-a14b-11768b784b43)
-![크로우캐년PPT_10](https://github.com/user-attachments/assets/9d34e600-676d-4fff-8e18-6df77e99b7ee)
-![크로우캐년PPT_11](https://github.com/user-attachments/assets/c6bc11ea-6c28-47d1-85a2-3cf8bbeefb80)
-![크로우캐년PPT_12](https://github.com/user-attachments/assets/b25bc174-4e0e-44dd-843f-a40c2a2ff100)
-![크로우캐년PPT_13](https://github.com/user-attachments/assets/c69ad2e7-764d-4cc6-a4ea-741aae77f948)
-![크로우캐년PPT_14](https://github.com/user-attachments/assets/22760c7e-3e2c-4ccb-af7f-f1a158d7baf9)
-![크로우캐년PPT_15](https://github.com/user-attachments/assets/2d0226ac-5aae-4dd7-b7c7-b427c98d3dc7)
-![크로우캐년PPT_16](https://github.com/user-attachments/assets/380b4dc8-2b12-43fa-9399-c5958786cf56)
-![크로우캐년PPT_17](https://github.com/user-attachments/assets/19821de2-971b-4ef2-9c74-8192924243bf)
-![크로우캐년PPT_18](https://github.com/user-attachments/assets/b13b0ca9-d029-43b2-9d9c-afac471e7055)
+<h3>:pushpin: PPT 다운로드:(https://github.com/user-attachments/files/16373253/PPT.pdf)  :pushpin:</h3>
+
+
+
+<h1 align="center">메인페이지</h1>
+
+![스크린샷(45)](https://github.com/user-attachments/assets/af49fd88-1c18-49f3-bccd-3af6e783606d)
+
+<h1 align="center">헤더</h1>
+
+![크로우캐년PPT_2](https://github.com/user-attachments/assets/78e90270-db4d-4e4a-a700-9141ecbcae6b)
+
+<h1 align="center">아이템 리스트 페이지</h1>
+
+![크로우캐년PPT_3](https://github.com/user-attachments/assets/c46fc531-f626-4dc6-ae7f-a9dbe96b5d42)
+
+<h1 align="center">아이템 상세 페이지</h1>
+
+![크로우캐년PPT_4](https://github.com/user-attachments/assets/66937f3c-674d-47fa-bc03-f014717b2255)
+
+<h1 align="center">회원가입 페이지</h1>
+
+![크로우캐년PPT_5](https://github.com/user-attachments/assets/8f41c9e5-831b-4306-930e-1ef4fec5d2ce)
+
+<h1 align="center">로그인 페이지</h1>
+
+![크로우캐년PPT_6](https://github.com/user-attachments/assets/b3dcb4a8-1593-4965-886a-15fd2092a766)
+
+<h1 align="center">게시판 리스트 페이지</h1>
+
+![크로우캐년PPT_7](https://github.com/user-attachments/assets/f1e34851-3002-4a7a-9242-e0ba8e3b189d)
+
+<h1 align="center">게시판 등록 페이지</h1>
+
+![크로우캐년PPT_8](https://github.com/user-attachments/assets/300f0a13-641b-4f88-a6ed-acd6090d4f99)
+
+
+![크로우캐년PPT_9](https://github.com/user-attachments/assets/dc70d74e-f5ad-4537-b8ac-38039e2adc79)
+
+<h1 align="center">게시판 상세 페이지</h1>
+
+![크로우캐년PPT_10](https://github.com/user-attachments/assets/105ed0d0-989d-4597-a067-99135e68f493)
+
+<h1 align="center">게시판 댓글</h1>
+
+![크로우캐년PPT_11](https://github.com/user-attachments/assets/cc1e665a-2643-4b49-9d80-ed9959af263f)
+
+<h1 align="center">검색페이지</h1>
+
+![크로우캐년PPT_12](https://github.com/user-attachments/assets/bffaaa48-7ddc-4da2-bf9d-65ba94a4c660)
+
+
+![크로우캐년PPT_13](https://github.com/user-attachments/assets/6a21eec8-cd62-4ac8-bdf1-ff886cb7d55e)
+
+
+![크로우캐년PPT_14](https://github.com/user-attachments/assets/ab0d78a8-053a-462a-bcb8-41a72c574e05)
+
+
+![크로우캐년PPT_15](https://github.com/user-attachments/assets/dcad95a3-e324-44a5-9584-e092b22e7061)
+
+
+![크로우캐년PPT_16](https://github.com/user-attachments/assets/834dc37b-5de1-4cac-885a-b9f4d2194b82)
+
+
+![크로우캐년PPT_17](https://github.com/user-attachments/assets/9d03e074-ff85-4373-ab38-31dfefb33e46)
+
+
+![크로우캐년PPT_18](https://github.com/user-attachments/assets/d56c42fe-34c7-42dc-b926-8f786caa83a6)
