@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>  <!-- 현재 파일이 XML 파일이기 때문에 맨 위에 XML 선언이 온다 -->
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/schema/mybatis-3-mapper.dtd"> <!-- 규칙을 정의한 DTD 선언 -->
+
+<mapper namespace="com.bitstudy.app.dao.ListMapper">
+
+    <select id="list" parameterType="int" resultType="ListDto">
+        select * from list where list_cateno = #{list_cateno}
+    </select>
+
+    <select id="listOne" parameterType="int" resultType="ListDto">
+        select * from list where list_seqno = #{list_seqno}
+    </select>
+
+    <select id="listSearch" parameterType="String" resultType="ListDto">
+        select * from list WHERE list_name LIKE CONCAT('%', #{search}, '%')
+    </select>
+
+</mapper>
